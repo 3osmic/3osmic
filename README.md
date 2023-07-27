@@ -4,7 +4,7 @@
 
 </div>
 <!-- <a href="discordapp.com/users/854715248552706048"></a> -->
-`Student, Aspiring Software Engineer, Gamer and Artist`
+**`Student, Aspiring Software Engineer, Gamer and Artist`**
 <!--
 **3osmic/3osmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
