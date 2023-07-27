@@ -3,7 +3,7 @@
 ![](https://typograssy.deno.dev/api?text=Welcome%20To%20My%20Domain!&l0=0d1017&l1=edcee0&l2=dbc5ed&l3=d3f8fd&l4=e8e7bf&bg=0d1017&frame=0d1017&speed=100)
 
 </div>
-
+<a href="discordapp.com/users/854715248552706048"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 <!--
 **3osmic/3osmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
