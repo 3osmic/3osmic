@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+![](https://typograssy.deno.dev/api?text=Welcome%20To%20My%20Domain!&l0=000000&l1=edcee0&l2=dbc5ed&l3=d3f8fd&l4=e8e7bf&bg=000000&speed=100&comment=)
+
+</div>
 
 <!--
 **3osmic/3osmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
