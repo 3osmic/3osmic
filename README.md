@@ -5,6 +5,7 @@
 
 </div>
 
+<!-- Center Aligned Text -->
 <div align="center">
   
 `Student, Aspiring Software Engineer, Gamer and Artist`
@@ -18,11 +19,11 @@
 
 </div>
 
-<!-- First Gif -->
+<!-- First Image -->
 <img align="right" width="500" src="https://pbs.twimg.com/media/FN6cLUMWQAEun3f.jpg:large" alt="artwork not by me!"/>
 
 ```c++
-                    ˚₊· ͟͟͞͞➳❥ Experience
+                    ˚₊· ͟͟͞͞➳❥ About Me
 --------------------------------------------------------------
 Student At 🌷: Wake Tech Community College
 Focus 🎧: Info Technology and Computer Programming/Development
@@ -34,3 +35,30 @@ Favorite Anime ✨: Peach Girl
 
 <!-- Discord Image -->
 <img align="center" src="https://lanyard.kyrie25.me/api/854715248552706048?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" />
+
+<!-- Anime Counting -->
+ρєσρℓє νιѕιтє∂: <img src="https://count.getloli.com/get/@3osmic?theme=rule34"/>
+
+<!-- Typing | Experience -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C0D7&width=435&lines=Experience+!+%E2%99%A1+%7C+%E7%B5%8C%E9%A8%93)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Second Image -->
+<img align="left" width="300" src="https://i.pinimg.com/564x/ad/4a/7e/ad4a7e138babedfad64e70fd21049599.jpg" alt="artwork not by me!"/>
+
+<!-- Work Icons -->
+<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+
+<!-- Gif -->
+<!-- <img align="right" src="https://64.media.tumblr.com/f8b3e35c0ff7667a246a936b6ed5b1ed/tumblr_p89pr98cVZ1sgw7hlo1_500.gif" alt="artwork not by me!"/> -->
