@@ -5,6 +5,12 @@
 
 </div>
 
+<div align="center">
+  
+`Student, Aspiring Software Engineer, Gamer and Artist`
+
+</div>
+
 <!-- Typing | About Me -->
 <div align="center">
   
@@ -13,7 +19,7 @@
 </div>
 
 <!-- First Gif -->
-<img align="right" src="https://i.pinimg.com/originals/2e/9d/1c/2e9d1ce4ed0102ca322dc52378414ee2.gif" />
+<img align="right" width="500" src="https://pbs.twimg.com/media/FN6cLUMWQAEun3f.jpg:large" alt="artwork not by me!"/>
 
 ```c++
                     ˚₊· ͟͟͞͞➳❥ Experience
@@ -22,28 +28,9 @@ Student At 🌷: Wake Tech Community College
 Focus 🎧: Info Technology and Computer Programming/Development
 Operating System 💻: Windows 11
 Languages 💐: C++, Python, HTML & CSS/JavaScript
-Learning 🪴: Java
+Currently Learning 🪴: Java
 Favorite Anime ✨: Peach Girl
 ```
 
-
 <!-- Discord Image -->
-<img align="center" src="https://lanyard.kyrie25.me/api/854715248552706048?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
-
-<p>Hello My Name Is Cosmic!</p>
-
-<!-- **`Student, Aspiring Software Engineer, Gamer and Artist`** -->
-<!--
-**3osmic/3osmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://lanyard.kyrie25.me/api/854715248552706048?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" />
