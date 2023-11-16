@@ -8,7 +8,7 @@
 <!-- Center Aligned Text -->
 <div align="center">
   
-`Student, Aspiring Software Engineer, Gamer and Artist`
+`Student, Aspiring Software Engineer/Developer, Gamer and Artist`
 
 </div>
 
