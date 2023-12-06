@@ -36,8 +36,6 @@ Favorite Anime ✨: Peach Girl
 <!-- Discord Image -->
 [![Discord Presence](https://lanyard.kyrie25.me/api/854715248552706048)](https://discord.com/users/854715248552706048)
 
-https://lanyard.kyrie25.me/api/854715248552706048
-
 <!-- Anime Counting -->
 ρєσρℓє νιѕιтє∂: <img src="https://count.getloli.com/get/@3osmic?theme=rule34"/>
 
