@@ -36,6 +36,10 @@ Favorite Anime ✨: Peach Girl
 <!-- Anime Counting -->
 ρєσρℓє νιѕιтє∂: <img src="https://count.getloli.com/get/@3osmic?theme=rule34"/>
 
+<br>
+<br>
+<br>
+
 <!-- Typing | Experience -->
 <div align="center">
   
