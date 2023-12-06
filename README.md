@@ -33,9 +33,6 @@ Currently Learning 🪴: Java
 Favorite Anime ✨: Peach Girl
 ```
 
-<!-- Discord Image -->
-<img src="https://lanyard.cnrad.dev/api/854715248552706048?bg=512f9c&borderRadius=15px"/>
-
 <!-- Anime Counting -->
 ρєσρℓє νιѕιтє∂: <img src="https://count.getloli.com/get/@3osmic?theme=rule34"/>
 
@@ -59,6 +56,3 @@ Favorite Anime ✨: Peach Girl
 <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
-
-<!-- Gif -->
-<!-- <img align="right" src="https://64.media.tumblr.com/f8b3e35c0ff7667a246a936b6ed5b1ed/tumblr_p89pr98cVZ1sgw7hlo1_500.gif" alt="artwork not by me!"/> -->
