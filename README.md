@@ -48,10 +48,16 @@ Favorite Anime ✨: Peach Girl
 </div>
 
 <!-- Second Image -->
-<img align="left" width="300" src="https://i.pinimg.com/564x/ad/4a/7e/ad4a7e138babedfad64e70fd21049599.jpg" alt="artwork not by me!"/>
+<!-- <img align="left" width="300" src="https://i.pinimg.com/564x/ad/4a/7e/ad4a7e138babedfad64e70fd21049599.jpg" alt="artwork not by me!"/> -->
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/32/d0/43/32d043e04522b3684918547fec3a7633.jpg"/>
+</div>
+
+<br>
 
 <!-- Work Icons -->
-<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+![icon1](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -60,3 +66,4 @@ Favorite Anime ✨: Peach Girl
 <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+
