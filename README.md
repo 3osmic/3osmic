@@ -20,7 +20,7 @@
 </div>
 
 <!-- First Image -->
-<img align="right" width="500" src="https://i.pinimg.com/originals/2d/41/3d/2d413d17950d53b90af7c654c0d87920.jpg:large" alt="artwork not by me!"/>
+<img align="right" width="500" src="https://i.pinimg.com/originals/2d/41/3d/2d413d17950d53b90af7c654c0d87920.jpg" alt="artwork not by me!"/>
 
 ```c++
                     ˚₊· ͟͟͞͞➳❥ About Me
